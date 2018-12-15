@@ -1,0 +1,27 @@
+[
+  {
+    "uri": "img/covers/1.jpg",
+    "title": "El Prinicipito",
+    "description": "El Principito es tal y cual pascual"
+  },
+  {
+    "uri": "img/covers/2.jpeg",
+    "title": "The Lord of the Rings"
+  },
+  {
+    "uri": "img/covers/3.jpg",
+    "title": "Refactoring Databases"
+  },
+  {
+    "uri": "img/covers/4.jpg",
+    "title": "Mundodisco"
+  },
+  {
+    "uri": "img/covers/5.jpg",
+    "title": "Mundodisco"
+  },
+  {
+    "uri": "img/covers/6.jpg",
+    "title": "Mundodisco"
+  }
+]
